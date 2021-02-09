@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  state: 
+  price: 
+  volume: 
+  traded_volume: 
+  type: 
+
+two:
+  state: 
+  price: 
+  volume: 
+  traded_volume: 
+  type: 
